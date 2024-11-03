@@ -1,0 +1,27 @@
+{
+	"Metadata":
+	{
+		"Name": "Act Clear Jingle Selection Mod",
+		"UniqueID": "euka-sample-audio-mod",
+		"Author": "Eukaryot",
+		"Description": "Select an Act Clear Jingle from a variety of jingles from the series.",
+		"URL": "https://sonic3air.org",
+		"ModVersion": "1.0.0.0",
+		"GameVersion": "20.04.26.0"
+	},
+    "Settings":
+    {
+        "List": [
+            {
+                "InternalName": "Act Clear Jingle Selection",
+                "DisplayName": "Stage Complete Music",
+                "Variable": "ActClearJingle",
+                "DefaultValue": "0",
+                "Options": {
+                    "0": "Default",
+                    "1": "Shadow the Hedgehog"
+                }
+            }
+        ]
+    }
+}
