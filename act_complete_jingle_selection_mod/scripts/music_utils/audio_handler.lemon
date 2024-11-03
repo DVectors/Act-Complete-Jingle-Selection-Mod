@@ -438,7 +438,7 @@ function void Standalone.playAudio(u8 sfxId)
 		} 
         else if (sfxId == MUSIC_LEVELCLEAR) // Act Clear Jingles
         {
-			if (ActClearJingle != 0)
+			if (ActClearJingle != 0) // 0 = Vanilla complete track from Sonic 3
 			{
 				soundKey = JingleUtil.getActCompleteJingleTrack(ActClearJingle) // Retrieve track to play
 			}
