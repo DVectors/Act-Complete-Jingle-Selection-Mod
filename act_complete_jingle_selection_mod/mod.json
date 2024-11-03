@@ -19,7 +19,8 @@
                 "DefaultValue": "0",
                 "Options": {
                     "0": "Default",
-                    "1": "Shadow the Hedgehog"
+                    "1": "Shadow the Hedgehog",
+                    "2": "Sonic the Hedgehog (2006)"
                 }
             }
         ]

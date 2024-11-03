@@ -442,6 +442,10 @@ function void Standalone.playAudio(u8 sfxId)
             {
                 soundKey = "shadow_complete"
             }
+			else if (ActClearJingle == 2)
+			{
+				soundKey = "sonic_06_complete"
+			}
             else
 			{
 				soundKey = "29"
