@@ -8,5 +8,10 @@ constant array<string> JINGLE_TRACKS =
 
 function string JingleUtil.getActCompleteJingleTrack(u8 ActClearJingle)
 {
-    return JINGLE_TRACKS[ActClearJingle]
+    if (ActClearJingle > 0) 
+    {
+        return JINGLE_TRACKS[ActClearJingle]
+    }
+    
+    return "29" // 29 = Default sfxId for Act Clear Jingle music
 }
