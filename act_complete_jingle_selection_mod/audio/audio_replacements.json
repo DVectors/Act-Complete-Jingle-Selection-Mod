@@ -3,5 +3,6 @@
 	"sonic_06_complete": { "File": "sonic_06_complete.ogg", "Type": "Jingle" },
 	"unleashed_complete": { "File": "unleashed_complete.ogg", "Type": "Jingle" },
 	"cd_us_complete": { "File": "cd_us_complete.ogg", "Type": "Jingle" },
-	"cd_jp_complete": { "File": "cd_jp_complete.ogg", "Type": "Jingle" }
+	"cd_jp_complete": { "File": "cd_jp_complete.ogg", "Type": "Jingle" },
+	"mania_complete": { "File": "mania_complete.ogg", "Type": "Jingle" }
 }

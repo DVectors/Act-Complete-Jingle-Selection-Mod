@@ -5,7 +5,8 @@ constant array<string> JINGLE_TRACKS =
     "sonic_06_complete",
     "unleashed_complete",
     "cd_us_complete",
-    "cd_jp_complete"
+    "cd_jp_complete",
+    "mania_complete"
 }
 
 function string JingleUtil.getActCompleteJingleTrack(u8 ActClearJingle)
