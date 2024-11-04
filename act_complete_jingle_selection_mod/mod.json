@@ -17,6 +17,7 @@
                 "DisplayName": "Stage Complete Music",
                 "Variable": "ActClearJingle",
                 "DefaultValue": "0",
+                "Category": "Audio",
                 "Options": {
                     "0": "Default",
                     "1": "Shadow the Hedgehog",
